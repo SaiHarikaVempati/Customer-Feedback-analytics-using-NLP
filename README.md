@@ -85,15 +85,15 @@ The processed data is visualized using Power BI to provide business insights:
 git clone https://github.com/YOUR-USERNAME/Customer-Feedback-analytics-using-NLP.git
 cd Customer-Feedback-analytics-using-NLP
 
-### 2. Create virtual environment
+2. Create virtual environment
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 
-### 3. Install dependencies
+3. Install dependencies
 pip install -r requirements.txt
-### 4. Download spaCy model
+4. Download spaCy model
 python -m spacy download en_core_web_sm
-### 5. Run the application
+5. Run the application
 python app.py
-### 6. Open in browser
+6. Open in browser
 http://127.0.0.1:5000
