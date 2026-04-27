@@ -79,7 +79,8 @@ The processed data is visualized using Power BI to provide business insights:
 
 ## ▶️ How to Run the Project
 
-### 1. Clone the repository
+
+1. Clone the repository 
 ```bash
 git clone https://github.com/YOUR-USERNAME/Customer-Feedback-analytics-using-NLP.git
 cd Customer-Feedback-analytics-using-NLP
