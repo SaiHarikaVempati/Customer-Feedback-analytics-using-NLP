@@ -91,10 +91,18 @@ python -m venv venv
 source venv/bin/activate
 ```
 ## 3. Install dependencies
+``` bash
 pip install -r requirements.txt
+```
 ## 4. Download spaCy model
+```bash
 python -m spacy download en_core_web_sm
+```
 ## 5. Run the application
+```bash
 python app.py
+```
 ## 6. Open in browser
+``` bash
 http://127.0.0.1:5000
+```
